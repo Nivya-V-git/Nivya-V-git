@@ -88,16 +88,6 @@ A cloud monitoring dashboard focused on visualizing infrastructure costs, identi
 
 ---
 
-## Certifications
-
-* Product Design and Manufacturing – NPTEL
-* Fluids Dynamics Virtual Internship – ANSYS AICTE EduSkills
-* Autonomous Cleaning Drone Challenge (ACDC) – PALS IIT Madras
-* Introduction to Control Systems – e-Yantra IIT Bombay
-* Robotics, Automation and Manufacturing (RAM 2026)
-
----
-
 ## GitHub Statistics
 
 <div align="center">
